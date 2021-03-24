@@ -1,0 +1,32 @@
+PENSAR es de los trabajos mas dificiles que existen por eso pocos nos dedicamos ha ello.
+ACTUAR es lo que sigue.
+Solo en equipo es posible.
+
+Que me apasiona ?¡
+
+Voy ha compartir algunas de mis ideas,:
+-Una capsula para guardar monedas, clasificarlas y auto-contarlas , (esto soluciona el problema de las monedas en bolsas pegadas con cinta , en Tiendas , almacenes , y sector bancario etc.
+-Un control inalámbrico,(masue+Teclado) para poder controlar el Pc, tablet , smartphone ( es el futuro) [Esto soluciona el problema, para quienes solo consumen contenidos en Pc , y Teléfono y aparte es inclusivo dando tecnología ha personas en condiciones no aptas )
+-Un arreglo para decorar un espacio reducido (grupos de 2 ha 5 personas) en restaurantes, bares, etc.(Soluciona varios problemas ha la hora de conmemorar una ocasión para la cual se reúnen grupos de personas.)
+- Ideas de diseño de ropa , Etc, programas de software
+-Desarrollo de software 
+La TECNOLOGIA ME APASIONA , en Fin 
+los deporte jaja
+
+Tarea , :
+como instalar Vue solo Vue
+instalar correctamente Vue js , y crear mi primer componente 
+npm estudiar 
+composter de php estudiar 
+Crear un CRUD 
+Boostrap 4 aprender
+terminar jv universidad en udemy 
+terminar desarrollo web con javi nigez 
+hacer proyectos de 30 min , diferentes con js 
+
+componentes que son 
+como crear componentes 
+
+
+avanzado para hacer QA - cucumber selenium y serenity español 
+-Docker - kubernetes , oopenshift
