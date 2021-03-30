@@ -30,3 +30,10 @@ como crear componentes
 
 avanzado para hacer QA - cucumber selenium y serenity español 
 -Docker - kubernetes , oopenshift
+
+login y logut
+con base de datos 
+con has#  - MD5
+cuando inicie sesion muestre quien fue el que inicion sesion 
+link curso php - https://sena.territorio.la/perfil.php?id=6841587
+https://sena.territorio.la/perfil.php?id=6841587  (por si no puedo acceder mas )
