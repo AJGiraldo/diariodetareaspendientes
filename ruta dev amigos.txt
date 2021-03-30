@@ -1,0 +1,47 @@
+computacion basica 
+- hardware -software
+para aprender ha manejar una computadora
+
+-SIN MIEDO , poco ha poco 
+
+PROGRAMACIION Y DESARROLLO WEBBB ¡¡¡¡
+
+- manejo de archivos , o carpetas o formatos o extensiones , ( sabese ubicar en el computador ) sistema de archivos 
+
+- NO TE ABRUMES 
+conceptos como 
+
+logica de programacion 
+-pre work , entorno desarrollo , buenas practicas.
+
+Desarrollo Web ¡¡¡¡¡¡
+
+- Documento de texo - NO , avanza directamente ha un editor. 
+-que es un editor de texto para desarrollar 
+
+
+-HTML BASICO  luego (BUENAS PRACTICAS SON =  avanzar poscicionamiento seo "meta datos" , maquetacion , favicon , añadir audio , videos , iamgens y mas html )
+
+- Css (basicos) (y avanzar mas halla , sas = css , less = css , flexbox = css , Grid = css )
+
+
+- algo de terminal y linea de comandos ( crear carpetas , eliminar , crear archivos ,y mas ) 
+- GIT 
+- ¡¡¡ , para aprender  "GITHUB"
+
+-Resposive Desing
+
+- java scritp - lenguaje de programacion 
+
+- AVANZADO : REACT JS. 
+
+- metodologias de trabajo ( por ejemplo SCRUM ) 
+
+HOSTING -  DOMINIO - WEb - ( avanzado : servidor y DNS , http y https  ) 
+
+- herramientas de diseño diseño grafico ( "figma"¡ , adobe XD , sketch , photoshop , mockups, landin Pages. )
+
+-Marketing ( hubspot , crms )
+
+- 
+
